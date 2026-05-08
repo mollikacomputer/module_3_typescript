@@ -22,7 +22,6 @@ class BankAccount{
     }
 
 }
-
 const mezbaBaiAccount= new BankAccount(111, "Mejba", 20);
 mezbaBaiAccount.addBalance = 100;
 // mezbaBaiAccount.addBalance = 100;
@@ -30,9 +29,6 @@ mezbaBaiAccount.addBalance = 100;
 mezbaBaiAccount.addBalance = 100;
 console.log(mezbaBaiAccount);
 console.log(mezbaBaiAccount.getBalance);
-
-
-
 
 
 // class BankAccount{
